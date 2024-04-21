@@ -1,0 +1,1 @@
+export const REQUIRED_MESSAGE = 'Este campo no puede estar en blanco';
